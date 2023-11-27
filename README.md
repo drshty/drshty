@@ -1,3 +1,9 @@
-### Hi there 👋
+Full Stack Developer proficient in building responsive and user-friendly web applications. I have expertise in a range of technologies including:
 
-I'm a Full Stack Developer with experience in building responsive and user-friendly web applications. My expertise includes front-end technologies like HTML, CSS, and JavaScript, as well as back-end technologies like Node.js, Express, and SQL/NoSQL databases.
+- Front-end: HTML, CSS, JavaScript, React
+- Back-end: Node.js, Express, .NET (C#)
+- Databases: SQL, NoSQL (MongoDB)
+- APIs: Apollo, GraphQL
+- Content Management Systems: WordPress, PHP
+
+Passionate about creating robust and scalable solutions, I enjoy working on diverse projects that challenge and expand my skill set.
